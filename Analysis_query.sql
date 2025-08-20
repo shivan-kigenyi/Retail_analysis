@@ -140,6 +140,7 @@ HAVING COUNT(DISTINCT s.product_id)>1
 ORDER BY different_products_bought DESC;
 
 --Creating a dashboard
+CREATE OR REPLACE VIEW dashboard_summary AS
 WITH 
 monthly_sales AS (
     SELECT 
@@ -183,4 +184,7 @@ SELECT
 FROM total_revenue_cte tr
 CROSS JOIN best_product bp
 CROSS JOIN top_customer tc;
+
+SELECT * FROM dashboard_summary;
+
 
