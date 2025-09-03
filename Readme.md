@@ -24,7 +24,7 @@ The goal here is to demostrate how data engineering, analytics and storytelling 
 - The significant dip in July would suggest seasonal slowdown or stockout issues.
 - The peak in November would suggest seasonal demand driven by holiday shopping or black friday deals.
 
-# Action: Focus on inventory readiness before seasonal peaks to maximize revenue.
+Action: Focus on inventory readiness before seasonal peaks to maximize revenue.
 
 2. Top products by Revenue
 ![Top Products](Retail_analysis/Top_products.png)
@@ -36,7 +36,7 @@ The goal here is to demostrate how data engineering, analytics and storytelling 
 3. Top Customer Spenders
 ![Top Spenders](Retail_analysis/Customer_spending)
 
-# Action: Launch loyalty rewards for top spenders, develope strategies to diversify customer base and reduce risk from over-dependence.
+Action: Launch loyalty rewards for top spenders, develope strategies to diversify customer base and reduce risk from over-dependence.
 
 ## Overall Business Recommendations
 1. Optimize inventory before seasonal peaks to avoid missed opportunities
@@ -45,7 +45,7 @@ The goal here is to demostrate how data engineering, analytics and storytelling 
 4. Enhance customer retenstion with targeted offers for high-value clients.
 
 
-# Strategic Business Recommendations
+Strategic Business Recommendations
 1. Inventory Optimization - Create stock buffer to avoid missed sales due to stock outs while also preparing for seasonal peaks
 2. Focus on Premium Laptops - Reinforce marketing around high-performing laptob models that consistently drive growth.
 3. Streamline low performing products - Reduce or reposition products with weak demand to improve margins
@@ -56,4 +56,5 @@ The goal here is to demostrate how data engineering, analytics and storytelling 
 
 
  
+
 
